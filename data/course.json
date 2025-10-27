@@ -1,0 +1,64 @@
+{
+  "term": "Fall",
+  "year": "2014",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Business",
+      "Globalization"
+    ],
+    [
+      "Energy",
+      "Climate"
+    ],
+    [
+      "Energy",
+      "Technology"
+    ],
+    [
+      "Health and Medicine",
+      "Health and Exercise Science"
+    ],
+    [
+      "Humanities",
+      "History",
+      "American History"
+    ],
+    [
+      "Science",
+      "Earth Science",
+      "Sustainability"
+    ]
+  ],
+  "legacy_uid": "f8a93c40-021b-688d-ea87-216c69290363",
+  "instructors": {
+    "content": [
+      "ae08ceed-9b30-0920-4037-005623c8b49a"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "673473b0-8f68-bc25-674c-3e2686a9d71e",
+    "website": "21h-s01-food-in-american-history-fall-2014"
+  },
+  "course_title": "Food in American History",
+  "course_description": "This course will explore food in modern American history as a story of industrialization and globalization. Lectures, readings, and discussions will emphasize the historical dimensions of\u2014and debates about\u2014slave plantations and factory farm labor; industrial processing and technologies of food preservation; the political economy and ecology of global commodity chains; the vagaries of nutritional science; food restrictions and reform movements; food surpluses and famines; cooking traditions and innovations; the emergence of restaurants, supermarkets, fast food, and slow food. The core concern of the course will be to understand the increasingly pervasive influence of the American model of food production and consumption patterns.\n",
+  "department_numbers": [
+    "21H"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "21H.S01",
+  "course_image_thumbnail": {
+    "content": "8f35c244-fd55-8826-6a1f-fc5d7245595c",
+    "website": "21h-s01-food-in-american-history-fall-2014"
+  },
+  "learning_resource_types": [
+    "Written Assignments with Examples"
+  ],
+  "site_uid": "857a6c92-54ee-4965-bb18-09c6b2fff43c",
+  "site_short_id": "21h.s01-fall-2014",
+  "site_url_path": "courses/21h-s01-food-in-american-history-fall-2014",
+  "title": "Course Metadata"
+}
